@@ -2,7 +2,7 @@
 
 <hr/>
 
-### Start
+### Start with
 ```
 npm i
 ```
@@ -10,3 +10,8 @@ npm i
 ```
 npm start
 ```
+
+<br>
+<hr/>
+
+
